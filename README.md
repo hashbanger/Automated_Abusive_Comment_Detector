@@ -20,7 +20,7 @@ If you want to see the complete implementation of the algo working in background
 The frontend runs the minimal python code from the notebook through the saved pickle models.  
 
 1) Run the MongoDB Server  
-C:\Program Files\MongoDB\Server\4.0\bin>mongod.exe --dbpath "<DATABASE PATH>"  
+C:\Program Files\MongoDB\Server\4.0\bin>mongod.exe --dbpath "//DATABASE PATH//"  
 
 2) Run the 'app.js' file from the folder **StoryBooksFull**  
 node .\app.js     
