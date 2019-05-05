@@ -8,10 +8,12 @@ face consecutive actions.
 ### Screenshots    
 * Creating a post  
 ![sc1](Screenshots/Screenshot01.PNG)  
+  
 * Posting a comment  
-![sc1](Screenshots/Screenshot01.PNG)  
+![sc1](Screenshots/Screenshot02.PNG)  
+  
 * Warning notification generated.  
-![sc1](Screenshots/Screenshot01.PNG)  
+![sc1](Screenshots/Screenshot03.PNG)  
 
 
 
