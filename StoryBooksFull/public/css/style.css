@@ -1,0 +1,49 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+.nav-wrapper .fa-bars{
+  font-size:25px;
+}
+
+footer{
+  margin-top:20px;
+}
+.story-text{
+  height: 120px;
+}
+
+#delete-form{
+  display: inline;
+}
+.dash-status{
+  text-transform:capitalize;
+}
+
+#notification_icon{
+  position: relative;
+  font-size: 1.6em;
+  color: grey;
+  cursor: pointer;
+}
+
+#notification_icon span.fa-comment {
+  position: absolute;
+  font-size: .9em;
+  top: -4px;
+  color: #F44336;
+  right: -4px;
+}
+#notification_icon span.num {
+  position: absolute;
+  font-size: 0.5em;
+  top: 1px;
+  color: #fff;
+  right: 2px;
+}

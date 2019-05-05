@@ -1,0 +1,27 @@
+{{#each user.warned_for}}
+<div class="container">
+    <div class="row">
+        <div class="col s12 m12">
+            <div class="card white center">
+                <div class="card-content">
+                    <span class="card-title">Your most recent comment has been detected as socially inappropriate.This is a warning to inform you
+                        that on continuing this kind of behaviour your account may be blocked.</span>
+                    <b>
+                        <h4 class=" black-text">{{prepareComment originalComment}}</h4>
+                        <h4 class=" black-text ">{{prepareText warningFor}}</h4>
+
+                </div>
+                <div class="card-action">
+                    <a href="#">Make an appeal</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{else}}
+
+<h1>No warnings Found</h1>
+
+{{/each}}
