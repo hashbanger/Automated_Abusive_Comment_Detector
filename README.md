@@ -5,6 +5,14 @@ Also has a complementary functionality of Spam Classification for the same comme
 It then generates notification warning to the user about their respective statements and to alter it or
 face consecutive actions.  
 
+#Screenshots  
+Creating a post  
+![sc1](Screenshots/Screenshot01.PNG)  
+Posting a comment  
+![sc1](Screenshots/Screenshot01.PNG)  
+Warning notification generated.  
+![sc1](Screenshots/Screenshot01.PNG)  
+
 
 
 ## How to run  
